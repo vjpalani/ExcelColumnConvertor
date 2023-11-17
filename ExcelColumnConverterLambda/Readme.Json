@@ -1,0 +1,13 @@
+{
+  "projectName": "ExcelColumnConverterLambda",
+  "description": "A .NET Core Lambda Function for converting Excel sheet column letters to column numbers and vice versa.",
+  "usage": "Run the Lambda functions locally using `dotnet lambda invoke-function`.",
+  "tests": "Unit tests are included to ensure the correctness of the conversion methods.",
+  "instructions": [
+    "1. Run `dotnet build` to build the project.",
+    "2. Run `dotnet test` to execute the unit tests.",
+    "3. Run Lambda functions locally using `dotnet lambda invoke-function`."
+  ],
+  "author": "Thavapalani",
+  "email": "vijaypalanig@gmail.com"
+}
